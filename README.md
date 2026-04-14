@@ -14,7 +14,7 @@ Estudante autodidata focado em segurança ofensiva, automação com Python e adm
 ### 📊 Atividade no GitHub
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=mateushne&theme=dark&hide_border=false)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushne&layout=compact&theme=dark&cache_seconds=1800)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushne&layout=compact&theme=dark)
 
 📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateushenriquetech)
 
