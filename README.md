@@ -12,7 +12,7 @@ Estudante autodidata focado em segurança ofensiva, automação com Python e adm
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Estatísticas
-![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=mateushne&show_icons=true&theme=radical)
+![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=mateushne&show_icons=true&theme=radical&hide_border=false)
 
 ---
 📫 **Como me encontrar:** [www.linkedin.com/in/mateushenriquetech]
