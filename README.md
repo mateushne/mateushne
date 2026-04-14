@@ -11,9 +11,10 @@ Estudante autodidata focado em segurança ofensiva, automação com Python e adm
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Estatísticas do Mateus](https://github-readme-stats.vercel.app/api?username=mateushne&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+### 📊 Atividade no GitHub
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=mateushne&theme=dark&hide_border=false)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushne&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushne&layout=compact&theme=dark&cache_seconds=1800)
 
 📫 **Como me encontrar:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateushenriquetech)
 
